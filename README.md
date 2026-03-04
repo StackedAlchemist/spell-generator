@@ -4,7 +4,7 @@
 
 A randomized spell-casting engine that conjures unique arcane spells on demand. Every cast produces a new combination of spell name, element, effect, range, and incantation — no two spells are ever the same.
 
-**[🔮 Cast a Spell](https://stackedalchemist.github.io/Portfolio/spell-generator/)**
+**[🔮 Cast a Spell](https://stackedalchemist.github.io/stacked-alchemist/spell-generator/)**
 
 ---
 
@@ -32,7 +32,7 @@ A randomized spell-casting engine that conjures unique arcane spells on demand. 
 ## 🚀 Running Locally
 
 ```bash
-git clone https://github.com/StackedAlchemist/Portfolio.git
+git clone https://github.com/StackedAlchemist/stacked-alchemist.git
 cd Portfolio/spell-generator
 # Open index.html in your browser
 ```
@@ -64,4 +64,4 @@ The engine pulls from multiple word banks and combines them using weighted rando
 
 ---
 
-*Built by [Billy Williams](https://stackedalchemist.github.io/Portfolio/) — Stacked Alchemist*
+*Built by [Billy Williams](https://stackedalchemist.github.io/stacked-alchemist/) — Stacked Alchemist*
